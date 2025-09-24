@@ -1,0 +1,6 @@
+ShareProfitTracker/
+claude-code/
+.venv/
+*.pyc
+__pycache__/
+*.db
