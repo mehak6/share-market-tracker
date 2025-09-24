@@ -1,6 +1,4 @@
-ShareProfitTracker/
-claude-code/
+# Only exclude Python cache and virtual environment
 .venv/
 *.pyc
 __pycache__/
-*.db
