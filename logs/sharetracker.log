@@ -1,0 +1,313 @@
+2025-11-10 15:02:49 - ShareTracker - INFO - Logging initialized. Log file: D:\Projects\share mkt\logs\sharetracker.log
+2025-11-10 15:02:49 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-10 15:02:49 - ShareTracker.__main__ - INFO - Share Profit Tracker - Improved Version Starting
+2025-11-10 15:02:49 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-10 15:02:49 - ShareTracker.__main__ - INFO - Configuration loaded successfully
+2025-11-10 15:02:49 - ShareTracker.__main__ - INFO - Using improved DatabaseManager
+2025-11-10 15:02:49 - ShareTracker.__main__ - INFO - Using improved data models
+2025-11-10 15:02:55 - ShareTracker.__main__ - ERROR - Failed to import GUI: attempted relative import beyond top-level package
+2025-11-10 15:03:13 - ShareTracker - INFO - Logging initialized. Log file: D:\Projects\share mkt\logs\sharetracker.log
+2025-11-10 15:03:13 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-10 15:03:13 - ShareTracker.__main__ - INFO - Share Profit Tracker - Improved Version Starting
+2025-11-10 15:03:13 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-10 15:03:13 - ShareTracker.__main__ - INFO - Configuration loaded successfully
+2025-11-10 15:03:14 - ShareTracker.__main__ - INFO - Using improved DatabaseManager
+2025-11-10 15:03:14 - ShareTracker.__main__ - INFO - Using improved data models
+2025-11-10 15:03:19 - ShareTracker.__main__ - ERROR - Failed to import GUI: attempted relative import beyond top-level package
+2025-11-10 15:03:35 - ShareTracker - INFO - Logging initialized. Log file: D:\Projects\share mkt\logs\sharetracker.log
+2025-11-10 15:03:35 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-10 15:03:35 - ShareTracker.__main__ - INFO - Share Profit Tracker - Improved Version Starting
+2025-11-10 15:03:35 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-10 15:03:35 - ShareTracker.__main__ - INFO - Configuration loaded successfully
+2025-11-10 15:03:35 - ShareTracker.__main__ - INFO - Using improved DatabaseManager
+2025-11-10 15:03:35 - ShareTracker.__main__ - INFO - Using improved data models
+2025-11-10 15:03:41 - ShareTracker.__main__ - ERROR - Failed to import GUI: attempted relative import beyond top-level package
+2025-11-10 15:04:01 - ShareTracker - INFO - Logging initialized. Log file: D:\Projects\share mkt\logs\sharetracker.log
+2025-11-10 15:04:01 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-10 15:04:01 - ShareTracker.__main__ - INFO - Share Profit Tracker - Improved Version Starting
+2025-11-10 15:04:01 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-10 15:04:01 - ShareTracker.__main__ - INFO - Configuration loaded successfully
+2025-11-10 15:04:01 - ShareTracker - INFO - Logging initialized. Log file: D:\Projects\share mkt\logs\sharetracker.log
+2025-11-10 15:04:01 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-10 15:04:01 - ShareTracker.__main__ - INFO - Share Profit Tracker - Improved Version Starting
+2025-11-10 15:04:01 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-10 15:04:01 - ShareTracker.__main__ - INFO - Configuration loaded successfully
+2025-11-10 15:04:01 - ShareTracker.__main__ - INFO - Using improved DatabaseManager
+2025-11-10 15:04:01 - ShareTracker.__main__ - INFO - Using improved data models
+2025-11-10 15:04:01 - ShareTracker.__main__ - INFO - Using improved DatabaseManager
+2025-11-10 15:04:01 - ShareTracker.__main__ - INFO - Using improved data models
+2025-11-10 15:04:07 - ShareTracker.__main__ - ERROR - Failed to import GUI: attempted relative import beyond top-level package
+2025-11-10 15:04:08 - ShareTracker.__main__ - ERROR - Failed to import GUI: attempted relative import beyond top-level package
+2025-11-10 15:04:57 - ShareTracker - INFO - Logging initialized. Log file: D:\Projects\share mkt\logs\sharetracker.log
+2025-11-10 15:04:57 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-10 15:04:57 - ShareTracker.__main__ - INFO - Share Profit Tracker - Improved Version Starting
+2025-11-10 15:04:57 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-10 15:04:57 - ShareTracker.__main__ - INFO - Configuration loaded successfully
+2025-11-10 15:04:57 - ShareTracker.__main__ - INFO - Using improved DatabaseManager
+2025-11-10 15:04:57 - ShareTracker.__main__ - INFO - Using improved data models
+2025-11-10 15:05:01 - ShareTracker.__main__ - ERROR - Failed to import GUI: attempted relative import beyond top-level package
+2025-11-10 15:08:18 - ShareTracker - INFO - Logging initialized. Log file: D:\Projects\share mkt\logs\sharetracker.log
+2025-11-10 15:08:18 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-10 15:08:18 - ShareTracker.__main__ - INFO - Share Profit Tracker - Improved Version Starting
+2025-11-10 15:08:18 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-10 15:08:18 - ShareTracker.__main__ - INFO - Configuration loaded successfully
+2025-11-10 15:08:18 - ShareTracker.__main__ - INFO - Using improved DatabaseManager
+2025-11-10 15:08:18 - ShareTracker.__main__ - INFO - Using improved data models
+2025-11-10 15:08:21 - ShareTracker.__main__ - ERROR - Failed to import GUI: cannot import name 'MimeText' from 'email.mime.text' (C:\Users\LENOVO\AppData\Local\Temp\_MEI41322\email\mime\text.py)
+2025-11-10 15:08:43 - ShareTracker - INFO - Logging initialized. Log file: D:\Projects\share mkt\logs\sharetracker.log
+2025-11-10 15:08:43 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-10 15:08:43 - ShareTracker.__main__ - INFO - Share Profit Tracker - Improved Version Starting
+2025-11-10 15:08:43 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-10 15:08:43 - ShareTracker.__main__ - INFO - Configuration loaded successfully
+2025-11-10 15:08:43 - ShareTracker.__main__ - INFO - Using improved DatabaseManager
+2025-11-10 15:08:43 - ShareTracker.__main__ - INFO - Using improved data models
+2025-11-10 15:08:49 - ShareTracker.__main__ - ERROR - Failed to import GUI: cannot import name 'MimeText' from 'email.mime.text' (C:\Users\LENOVO\AppData\Local\Temp\_MEI173522\email\mime\text.py)
+2025-11-10 15:10:16 - ShareTracker - INFO - Logging initialized. Log file: D:\Projects\share mkt\logs\sharetracker.log
+2025-11-10 15:10:16 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-10 15:10:16 - ShareTracker.__main__ - INFO - Share Profit Tracker - Improved Version Starting
+2025-11-10 15:10:16 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-10 15:10:16 - ShareTracker.__main__ - INFO - Configuration loaded successfully
+2025-11-10 15:10:17 - ShareTracker.__main__ - INFO - Using improved DatabaseManager
+2025-11-10 15:10:17 - ShareTracker.__main__ - INFO - Using improved data models
+2025-11-10 15:10:20 - ShareTracker.__main__ - INFO - GUI module loaded successfully
+2025-11-10 15:10:20 - ShareTracker.__main__ - INFO - AppConfig loaded
+2025-11-10 15:10:20 - ShareTracker.__main__ - INFO - Application starting...
+2025-11-10 15:10:20 - ShareTracker.__main__ - INFO - Creating required directories...
+2025-11-10 15:10:20 - ShareTracker.__main__ - INFO - Created directory: backups
+2025-11-10 15:10:20 - ShareTracker.__main__ - INFO - Created directory: exports
+2025-11-10 15:10:20 - ShareTracker.__main__ - INFO - Checking dependencies...
+2025-11-10 15:10:20 - ShareTracker.__main__ - INFO - yfinance available
+2025-11-10 15:10:20 - ShareTracker.__main__ - INFO - pandas available
+2025-11-10 15:10:20 - ShareTracker.__main__ - WARNING - openpyxl not available - Excel export may not work
+2025-11-10 15:10:20 - ShareTracker.__main__ - WARNING - Missing dependencies: openpyxl
+2025-11-10 15:10:20 - ShareTracker.__main__ - INFO - Application will continue with limited functionality
+2025-11-10 15:10:20 - ShareTracker.__main__ - INFO - AppConfig directories ensured
+2025-11-10 15:10:20 - ShareTracker.__main__ - INFO - Initializing database...
+2025-11-10 15:10:20 - ShareTracker.__main__ - INFO - Initializing database: D:\Projects\share mkt\portfolio.db
+2025-11-10 15:10:20 - ShareTracker.data.database_improved - INFO - Initializing DatabaseManager with path: D:\Projects\share mkt\portfolio.db
+2025-11-10 15:10:20 - ShareTracker.data.database_improved - INFO - No users found, creating default user
+2025-11-10 15:10:20 - ShareTracker.data.database_improved - INFO - Added user: default (ID: 1)
+2025-11-10 15:10:20 - ShareTracker.data.database_improved - INFO - Set active user: default
+2025-11-10 15:10:20 - ShareTracker.data.database_improved - INFO - Default user created and activated
+2025-11-10 15:10:20 - ShareTracker.data.database_improved - INFO - Database initialized successfully
+2025-11-10 15:10:20 - ShareTracker.__main__ - INFO - Database initialized successfully
+2025-11-10 15:10:20 - ShareTracker.__main__ - INFO - Creating main window...
+2025-11-10 15:10:22 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-10 15:10:22 - ShareTracker.__main__ - INFO - Application ready! Starting event loop...
+2025-11-10 15:10:22 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-10 15:11:19 - ShareTracker.__main__ - INFO - Application closed normally
+2025-11-10 18:00:17 - ShareTracker - INFO - Logging initialized. Log file: D:\Projects\share mkt\logs\sharetracker.log
+2025-11-10 18:00:17 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-10 18:00:17 - ShareTracker.__main__ - INFO - Share Profit Tracker - Improved Version Starting
+2025-11-10 18:00:17 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-10 18:00:17 - ShareTracker.__main__ - INFO - Configuration loaded successfully
+2025-11-10 18:00:18 - ShareTracker.__main__ - INFO - Using improved DatabaseManager
+2025-11-10 18:00:18 - ShareTracker.__main__ - INFO - Using improved data models
+2025-11-10 18:00:25 - ShareTracker.__main__ - INFO - GUI module loaded successfully
+2025-11-10 18:00:25 - ShareTracker.__main__ - INFO - AppConfig loaded
+2025-11-10 18:00:25 - ShareTracker.__main__ - INFO - Application starting...
+2025-11-10 18:00:25 - ShareTracker.__main__ - INFO - Creating required directories...
+2025-11-10 18:00:25 - ShareTracker.__main__ - INFO - Checking dependencies...
+2025-11-10 18:00:25 - ShareTracker.__main__ - INFO - yfinance available
+2025-11-10 18:00:25 - ShareTracker.__main__ - INFO - pandas available
+2025-11-10 18:00:25 - ShareTracker.__main__ - WARNING - openpyxl not available - Excel export may not work
+2025-11-10 18:00:25 - ShareTracker.__main__ - WARNING - Missing dependencies: openpyxl
+2025-11-10 18:00:25 - ShareTracker.__main__ - INFO - Application will continue with limited functionality
+2025-11-10 18:00:25 - ShareTracker.__main__ - INFO - AppConfig directories ensured
+2025-11-10 18:00:25 - ShareTracker.__main__ - INFO - Initializing database...
+2025-11-10 18:00:25 - ShareTracker.__main__ - INFO - Initializing database: D:\Projects\share mkt\portfolio.db
+2025-11-10 18:00:25 - ShareTracker.data.database_improved - INFO - Initializing DatabaseManager with path: D:\Projects\share mkt\portfolio.db
+2025-11-10 18:00:25 - ShareTracker.data.database_improved - INFO - Database initialized successfully
+2025-11-10 18:00:25 - ShareTracker.__main__ - INFO - Database initialized successfully
+2025-11-10 18:00:25 - ShareTracker.__main__ - INFO - Creating main window...
+2025-11-10 18:00:28 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-10 18:00:28 - ShareTracker.__main__ - INFO - Application ready! Starting event loop...
+2025-11-10 18:00:28 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-10 18:00:59 - ShareTracker.__main__ - INFO - Application closed normally
+2025-11-22 08:21:45 - ShareTracker - INFO - Logging initialized. Log file: D:\Projects\share mkt\logs\sharetracker.log
+2025-11-22 08:21:45 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 08:21:45 - ShareTracker.__main__ - INFO - Share Profit Tracker - Improved Version Starting
+2025-11-22 08:21:45 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 08:21:45 - ShareTracker.__main__ - INFO - Configuration loaded successfully
+2025-11-22 08:21:45 - ShareTracker.__main__ - INFO - Using improved DatabaseManager
+2025-11-22 08:21:45 - ShareTracker.__main__ - INFO - Using improved data models
+2025-11-22 08:21:52 - ShareTracker.__main__ - INFO - GUI module loaded successfully
+2025-11-22 08:21:52 - ShareTracker.__main__ - INFO - AppConfig loaded
+2025-11-22 08:21:52 - ShareTracker.__main__ - INFO - Application starting...
+2025-11-22 08:21:52 - ShareTracker.__main__ - INFO - Creating required directories...
+2025-11-22 08:21:52 - ShareTracker.__main__ - INFO - Checking dependencies...
+2025-11-22 08:21:52 - ShareTracker.__main__ - INFO - yfinance available
+2025-11-22 08:21:52 - ShareTracker.__main__ - INFO - pandas available
+2025-11-22 08:21:52 - ShareTracker.__main__ - WARNING - openpyxl not available - Excel export may not work
+2025-11-22 08:21:52 - ShareTracker.__main__ - WARNING - Missing dependencies: openpyxl
+2025-11-22 08:21:52 - ShareTracker.__main__ - INFO - Application will continue with limited functionality
+2025-11-22 08:21:52 - ShareTracker.__main__ - INFO - AppConfig directories ensured
+2025-11-22 08:21:52 - ShareTracker.__main__ - INFO - Initializing database...
+2025-11-22 08:21:52 - ShareTracker.__main__ - INFO - Initializing database: D:\Projects\share mkt\portfolio.db
+2025-11-22 08:21:52 - ShareTracker.data.database_improved - INFO - Initializing DatabaseManager with path: D:\Projects\share mkt\portfolio.db
+2025-11-22 08:21:53 - ShareTracker.data.database_improved - INFO - Database initialized successfully
+2025-11-22 08:21:53 - ShareTracker.__main__ - INFO - Database initialized successfully
+2025-11-22 08:21:53 - ShareTracker.__main__ - INFO - Creating main window...
+2025-11-22 08:21:54 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 08:21:54 - ShareTracker.__main__ - INFO - Application ready! Starting event loop...
+2025-11-22 08:21:54 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 09:04:27 - ShareTracker.__main__ - INFO - Application closed normally
+2025-11-22 09:07:41 - ShareTracker - INFO - Logging initialized. Log file: D:\Projects\share mkt\logs\sharetracker.log
+2025-11-22 09:07:41 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 09:07:41 - ShareTracker.__main__ - INFO - Share Profit Tracker - Improved Version Starting
+2025-11-22 09:07:41 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 09:07:41 - ShareTracker.__main__ - INFO - Configuration loaded successfully
+2025-11-22 09:07:41 - ShareTracker.__main__ - INFO - Using improved DatabaseManager
+2025-11-22 09:07:41 - ShareTracker.__main__ - INFO - Using improved data models
+2025-11-22 09:07:52 - ShareTracker.__main__ - INFO - GUI module loaded successfully
+2025-11-22 09:07:52 - ShareTracker.__main__ - INFO - AppConfig loaded
+2025-11-22 09:07:52 - ShareTracker.__main__ - INFO - Application starting...
+2025-11-22 09:07:52 - ShareTracker.__main__ - INFO - Creating required directories...
+2025-11-22 09:07:52 - ShareTracker.__main__ - INFO - Checking dependencies...
+2025-11-22 09:07:52 - ShareTracker.__main__ - INFO - yfinance available
+2025-11-22 09:07:52 - ShareTracker.__main__ - INFO - pandas available
+2025-11-22 09:07:52 - ShareTracker.__main__ - WARNING - openpyxl not available - Excel export may not work
+2025-11-22 09:07:52 - ShareTracker.__main__ - WARNING - Missing dependencies: openpyxl
+2025-11-22 09:07:52 - ShareTracker.__main__ - INFO - Application will continue with limited functionality
+2025-11-22 09:07:52 - ShareTracker.__main__ - INFO - AppConfig directories ensured
+2025-11-22 09:07:52 - ShareTracker.__main__ - INFO - Initializing database...
+2025-11-22 09:07:52 - ShareTracker.__main__ - INFO - Initializing database: D:\Projects\share mkt\portfolio.db
+2025-11-22 09:07:52 - ShareTracker.data.database_improved - INFO - Initializing DatabaseManager with path: D:\Projects\share mkt\portfolio.db
+2025-11-22 09:07:52 - ShareTracker.data.database_improved - INFO - Database initialized successfully
+2025-11-22 09:07:52 - ShareTracker.__main__ - INFO - Database initialized successfully
+2025-11-22 09:07:52 - ShareTracker.__main__ - INFO - Creating main window...
+2025-11-22 09:07:54 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 09:07:54 - ShareTracker.__main__ - INFO - Application ready! Starting event loop...
+2025-11-22 09:07:54 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 09:10:42 - ShareTracker.__main__ - INFO - Application closed normally
+2025-11-22 13:50:43 - ShareTracker - INFO - Logging initialized. Log file: D:\Projects\share mkt\logs\sharetracker.log
+2025-11-22 13:50:43 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 13:50:43 - ShareTracker.__main__ - INFO - Share Profit Tracker - Improved Version Starting
+2025-11-22 13:50:43 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 13:50:43 - ShareTracker.__main__ - INFO - Configuration loaded successfully
+2025-11-22 13:50:43 - ShareTracker.__main__ - INFO - Using improved DatabaseManager
+2025-11-22 13:50:43 - ShareTracker.__main__ - INFO - Using improved data models
+2025-11-22 13:50:46 - ShareTracker.__main__ - INFO - GUI module loaded successfully
+2025-11-22 13:50:46 - ShareTracker.__main__ - INFO - AppConfig loaded
+2025-11-22 13:50:46 - ShareTracker.__main__ - INFO - Application starting...
+2025-11-22 13:50:46 - ShareTracker.__main__ - INFO - Creating required directories...
+2025-11-22 13:50:46 - ShareTracker.__main__ - INFO - Checking dependencies...
+2025-11-22 13:50:46 - ShareTracker.__main__ - INFO - yfinance available
+2025-11-22 13:50:46 - ShareTracker.__main__ - INFO - pandas available
+2025-11-22 13:50:46 - ShareTracker.__main__ - WARNING - openpyxl not available - Excel export may not work
+2025-11-22 13:50:46 - ShareTracker.__main__ - WARNING - Missing dependencies: openpyxl
+2025-11-22 13:50:46 - ShareTracker.__main__ - INFO - Application will continue with limited functionality
+2025-11-22 13:50:46 - ShareTracker.__main__ - INFO - AppConfig directories ensured
+2025-11-22 13:50:46 - ShareTracker.__main__ - INFO - Initializing database...
+2025-11-22 13:50:46 - ShareTracker.__main__ - INFO - Initializing database: D:\Projects\share mkt\portfolio.db
+2025-11-22 13:50:46 - ShareTracker.data.database_improved - INFO - Initializing DatabaseManager with path: D:\Projects\share mkt\portfolio.db
+2025-11-22 13:50:46 - ShareTracker.data.database_improved - INFO - Database initialized successfully
+2025-11-22 13:50:46 - ShareTracker.__main__ - INFO - Database initialized successfully
+2025-11-22 13:50:46 - ShareTracker.__main__ - INFO - Creating main window...
+2025-11-22 13:50:47 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 13:50:47 - ShareTracker.__main__ - INFO - Application ready! Starting event loop...
+2025-11-22 13:50:47 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 14:01:52 - ShareTracker - INFO - Logging initialized. Log file: D:\Projects\share mkt\logs\sharetracker.log
+2025-11-22 14:01:52 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 14:01:52 - ShareTracker.__main__ - INFO - Share Profit Tracker - Improved Version Starting
+2025-11-22 14:01:52 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 14:01:52 - ShareTracker.__main__ - INFO - Configuration loaded successfully
+2025-11-22 14:01:52 - ShareTracker.__main__ - INFO - Using improved DatabaseManager
+2025-11-22 14:01:52 - ShareTracker.__main__ - INFO - Using improved data models
+2025-11-22 14:01:56 - ShareTracker.__main__ - INFO - GUI module loaded successfully
+2025-11-22 14:01:56 - ShareTracker.__main__ - INFO - AppConfig loaded
+2025-11-22 14:01:56 - ShareTracker.__main__ - INFO - Application starting...
+2025-11-22 14:01:56 - ShareTracker.__main__ - INFO - Creating required directories...
+2025-11-22 14:01:56 - ShareTracker.__main__ - INFO - Checking dependencies...
+2025-11-22 14:01:56 - ShareTracker.__main__ - INFO - yfinance available
+2025-11-22 14:01:56 - ShareTracker.__main__ - INFO - pandas available
+2025-11-22 14:01:57 - ShareTracker.__main__ - INFO - openpyxl available
+2025-11-22 14:01:57 - ShareTracker.__main__ - INFO - AppConfig directories ensured
+2025-11-22 14:01:57 - ShareTracker.__main__ - INFO - Initializing database...
+2025-11-22 14:01:57 - ShareTracker.__main__ - INFO - Initializing database: D:\Projects\share mkt\portfolio.db
+2025-11-22 14:01:57 - ShareTracker.data.database_improved - INFO - Initializing DatabaseManager with path: D:\Projects\share mkt\portfolio.db
+2025-11-22 14:01:57 - ShareTracker.data.database_improved - INFO - Database initialized successfully
+2025-11-22 14:01:57 - ShareTracker.__main__ - INFO - Database initialized successfully
+2025-11-22 14:01:57 - ShareTracker.__main__ - INFO - Creating main window...
+2025-11-22 14:01:57 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 14:01:57 - ShareTracker.__main__ - INFO - Application ready! Starting event loop...
+2025-11-22 14:01:57 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 14:03:39 - ShareTracker.__main__ - INFO - Application closed normally
+2025-11-22 14:03:45 - ShareTracker - INFO - Logging initialized. Log file: D:\Projects\share mkt\logs\sharetracker.log
+2025-11-22 14:03:45 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 14:03:45 - ShareTracker.__main__ - INFO - Share Profit Tracker - Improved Version Starting
+2025-11-22 14:03:45 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 14:03:45 - ShareTracker.__main__ - INFO - Configuration loaded successfully
+2025-11-22 14:03:45 - ShareTracker.__main__ - INFO - Using improved DatabaseManager
+2025-11-22 14:03:45 - ShareTracker.__main__ - INFO - Using improved data models
+2025-11-22 14:03:50 - ShareTracker.__main__ - INFO - GUI module loaded successfully
+2025-11-22 14:03:50 - ShareTracker.__main__ - INFO - AppConfig loaded
+2025-11-22 14:03:50 - ShareTracker.__main__ - INFO - Application starting...
+2025-11-22 14:03:50 - ShareTracker.__main__ - INFO - Creating required directories...
+2025-11-22 14:03:50 - ShareTracker.__main__ - INFO - Checking dependencies...
+2025-11-22 14:03:50 - ShareTracker.__main__ - INFO - yfinance available
+2025-11-22 14:03:50 - ShareTracker.__main__ - INFO - pandas available
+2025-11-22 14:03:51 - ShareTracker.__main__ - INFO - openpyxl available
+2025-11-22 14:03:51 - ShareTracker.__main__ - INFO - AppConfig directories ensured
+2025-11-22 14:03:51 - ShareTracker.__main__ - INFO - Initializing database...
+2025-11-22 14:03:51 - ShareTracker.__main__ - INFO - Initializing database: D:\Projects\share mkt\portfolio.db
+2025-11-22 14:03:51 - ShareTracker.data.database_improved - INFO - Initializing DatabaseManager with path: D:\Projects\share mkt\portfolio.db
+2025-11-22 14:03:51 - ShareTracker.data.database_improved - INFO - Database initialized successfully
+2025-11-22 14:03:51 - ShareTracker.__main__ - INFO - Database initialized successfully
+2025-11-22 14:03:51 - ShareTracker.__main__ - INFO - Creating main window...
+2025-11-22 14:03:52 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 14:03:52 - ShareTracker.__main__ - INFO - Application ready! Starting event loop...
+2025-11-22 14:03:52 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 14:04:25 - ShareTracker.__main__ - INFO - Application closed normally
+2025-11-22 14:06:47 - ShareTracker - INFO - Logging initialized. Log file: D:\Projects\share mkt\logs\sharetracker.log
+2025-11-22 14:06:47 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 14:06:47 - ShareTracker.__main__ - INFO - Share Profit Tracker - Improved Version Starting
+2025-11-22 14:06:47 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 14:06:47 - ShareTracker.__main__ - INFO - Configuration loaded successfully
+2025-11-22 14:06:47 - ShareTracker.__main__ - INFO - Using improved DatabaseManager
+2025-11-22 14:06:47 - ShareTracker.__main__ - INFO - Using improved data models
+2025-11-22 14:06:52 - ShareTracker.__main__ - INFO - GUI module loaded successfully
+2025-11-22 14:06:52 - ShareTracker.__main__ - INFO - AppConfig loaded
+2025-11-22 14:06:52 - ShareTracker.__main__ - INFO - Application starting...
+2025-11-22 14:06:52 - ShareTracker.__main__ - INFO - Creating required directories...
+2025-11-22 14:06:52 - ShareTracker.__main__ - INFO - Checking dependencies...
+2025-11-22 14:06:52 - ShareTracker.__main__ - INFO - yfinance available
+2025-11-22 14:06:52 - ShareTracker.__main__ - INFO - pandas available
+2025-11-22 14:06:53 - ShareTracker.__main__ - INFO - openpyxl available
+2025-11-22 14:06:53 - ShareTracker.__main__ - INFO - AppConfig directories ensured
+2025-11-22 14:06:53 - ShareTracker.__main__ - INFO - Initializing database...
+2025-11-22 14:06:53 - ShareTracker.__main__ - INFO - Initializing database: D:\Projects\share mkt\portfolio.db
+2025-11-22 14:06:53 - ShareTracker.data.database_improved - INFO - Initializing DatabaseManager with path: D:\Projects\share mkt\portfolio.db
+2025-11-22 14:06:53 - ShareTracker.data.database_improved - INFO - Database initialized successfully
+2025-11-22 14:06:53 - ShareTracker.__main__ - INFO - Database initialized successfully
+2025-11-22 14:06:53 - ShareTracker.__main__ - INFO - Creating main window...
+2025-11-22 14:06:54 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 14:06:54 - ShareTracker.__main__ - INFO - Application ready! Starting event loop...
+2025-11-22 14:06:54 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 14:07:48 - ShareTracker.__main__ - INFO - Application closed normally
+2025-11-22 14:09:46 - ShareTracker - INFO - Logging initialized. Log file: D:\Projects\share mkt\logs\sharetracker.log
+2025-11-22 14:09:46 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 14:09:46 - ShareTracker.__main__ - INFO - Share Profit Tracker - Improved Version Starting
+2025-11-22 14:09:46 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 14:09:46 - ShareTracker.__main__ - INFO - Configuration loaded successfully
+2025-11-22 14:09:47 - ShareTracker.__main__ - INFO - Using improved DatabaseManager
+2025-11-22 14:09:47 - ShareTracker.__main__ - INFO - Using improved data models
+2025-11-22 14:09:52 - ShareTracker.__main__ - INFO - GUI module loaded successfully
+2025-11-22 14:09:52 - ShareTracker.__main__ - INFO - AppConfig loaded
+2025-11-22 14:09:52 - ShareTracker.__main__ - INFO - Application starting...
+2025-11-22 14:09:52 - ShareTracker.__main__ - INFO - Creating required directories...
+2025-11-22 14:09:52 - ShareTracker.__main__ - INFO - Checking dependencies...
+2025-11-22 14:09:52 - ShareTracker.__main__ - INFO - yfinance available
+2025-11-22 14:09:52 - ShareTracker.__main__ - INFO - pandas available
+2025-11-22 14:09:52 - ShareTracker.__main__ - INFO - openpyxl available
+2025-11-22 14:09:52 - ShareTracker.__main__ - INFO - AppConfig directories ensured
+2025-11-22 14:09:52 - ShareTracker.__main__ - INFO - Initializing database...
+2025-11-22 14:09:52 - ShareTracker.__main__ - INFO - Initializing database: D:\Projects\share mkt\portfolio.db
+2025-11-22 14:09:52 - ShareTracker.data.database_improved - INFO - Initializing DatabaseManager with path: D:\Projects\share mkt\portfolio.db
+2025-11-22 14:09:52 - ShareTracker.data.database_improved - INFO - Database initialized successfully
+2025-11-22 14:09:52 - ShareTracker.__main__ - INFO - Database initialized successfully
+2025-11-22 14:09:52 - ShareTracker.__main__ - INFO - Creating main window...
+2025-11-22 14:09:54 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 14:09:54 - ShareTracker.__main__ - INFO - Application ready! Starting event loop...
+2025-11-22 14:09:54 - ShareTracker.__main__ - INFO - ============================================================
+2025-11-22 14:10:41 - ShareTracker.__main__ - INFO - Application closed normally
