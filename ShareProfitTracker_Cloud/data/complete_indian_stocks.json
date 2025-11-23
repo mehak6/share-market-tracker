@@ -1,0 +1,3208 @@
+{
+  "timestamp": "2025-09-17T14:15:35.432069",
+  "total_stocks": 320,
+  "nse_stocks": 157,
+  "bse_stocks": 163,
+  "stocks": {
+    "SENSEX.BO": {
+      "symbol": "SENSEX.BO",
+      "company_name": "S&P BSE SENSEX",
+      "exchange": "BSE",
+      "sector": "Index",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "BSE500.BO": {
+      "symbol": "BSE500.BO",
+      "company_name": "S&P BSE 500",
+      "exchange": "BSE",
+      "sector": "Index",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "BSE100.BO": {
+      "symbol": "BSE100.BO",
+      "company_name": "S&P BSE 100",
+      "exchange": "BSE",
+      "sector": "Index",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "BSE200.BO": {
+      "symbol": "BSE200.BO",
+      "company_name": "S&P BSE 200",
+      "exchange": "BSE",
+      "sector": "Index",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "BSEMIDCAP.BO": {
+      "symbol": "BSEMIDCAP.BO",
+      "company_name": "S&P BSE MidCap",
+      "exchange": "BSE",
+      "sector": "Index",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "BSESMLCAP.BO": {
+      "symbol": "BSESMLCAP.BO",
+      "company_name": "S&P BSE SmallCap",
+      "exchange": "BSE",
+      "sector": "Index",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "HDFCBANK": {
+      "symbol": "HDFCBANK",
+      "company_name": "HDFC Bank Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "HDFCBANK.BO": {
+      "symbol": "HDFCBANK.BO",
+      "company_name": "HDFC Bank Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "ICICIBANK": {
+      "symbol": "ICICIBANK",
+      "company_name": "ICICI Bank Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "ICICIBANK.BO": {
+      "symbol": "ICICIBANK.BO",
+      "company_name": "ICICI Bank Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "AXISBANK": {
+      "symbol": "AXISBANK",
+      "company_name": "Axis Bank Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "AXISBANK.BO": {
+      "symbol": "AXISBANK.BO",
+      "company_name": "Axis Bank Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "KOTAKBANK": {
+      "symbol": "KOTAKBANK",
+      "company_name": "Kotak Mahindra Bank Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "KOTAKBANK.BO": {
+      "symbol": "KOTAKBANK.BO",
+      "company_name": "Kotak Mahindra Bank Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "SBIN": {
+      "symbol": "SBIN",
+      "company_name": "State Bank of India",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "SBIN.BO": {
+      "symbol": "SBIN.BO",
+      "company_name": "State Bank of India",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "INDUSINDBK": {
+      "symbol": "INDUSINDBK",
+      "company_name": "IndusInd Bank Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "INDUSINDBK.BO": {
+      "symbol": "INDUSINDBK.BO",
+      "company_name": "IndusInd Bank Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "FEDERALBNK": {
+      "symbol": "FEDERALBNK",
+      "company_name": "Federal Bank Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "FEDERALBNK.BO": {
+      "symbol": "FEDERALBNK.BO",
+      "company_name": "Federal Bank Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "BANKBARODA": {
+      "symbol": "BANKBARODA",
+      "company_name": "Bank of Baroda",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "BANKBARODA.BO": {
+      "symbol": "BANKBARODA.BO",
+      "company_name": "Bank of Baroda",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "PNB": {
+      "symbol": "PNB",
+      "company_name": "Punjab National Bank",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "PNB.BO": {
+      "symbol": "PNB.BO",
+      "company_name": "Punjab National Bank",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "CANBK": {
+      "symbol": "CANBK",
+      "company_name": "Canara Bank",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "CANBK.BO": {
+      "symbol": "CANBK.BO",
+      "company_name": "Canara Bank",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "UNIONBANK": {
+      "symbol": "UNIONBANK",
+      "company_name": "Union Bank of India",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "UNIONBANK.BO": {
+      "symbol": "UNIONBANK.BO",
+      "company_name": "Union Bank of India",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "IOBBANK": {
+      "symbol": "IOBBANK",
+      "company_name": "Indian Overseas Bank",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "IOBBANK.BO": {
+      "symbol": "IOBBANK.BO",
+      "company_name": "Indian Overseas Bank",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "INDIANB": {
+      "symbol": "INDIANB",
+      "company_name": "Indian Bank",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "INDIANB.BO": {
+      "symbol": "INDIANB.BO",
+      "company_name": "Indian Bank",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "CENTRALBANK": {
+      "symbol": "CENTRALBANK",
+      "company_name": "Central Bank of India",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "CENTRALBANK.BO": {
+      "symbol": "CENTRALBANK.BO",
+      "company_name": "Central Bank of India",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "MAHABANK": {
+      "symbol": "MAHABANK",
+      "company_name": "Bank of Maharashtra",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "MAHABANK.BO": {
+      "symbol": "MAHABANK.BO",
+      "company_name": "Bank of Maharashtra",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "UCOBANK": {
+      "symbol": "UCOBANK",
+      "company_name": "UCO Bank",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "UCOBANK.BO": {
+      "symbol": "UCOBANK.BO",
+      "company_name": "UCO Bank",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "BANKINDIA": {
+      "symbol": "BANKINDIA",
+      "company_name": "Bank of India",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "BANKINDIA.BO": {
+      "symbol": "BANKINDIA.BO",
+      "company_name": "Bank of India",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "RBLBANK": {
+      "symbol": "RBLBANK",
+      "company_name": "RBL Bank Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "RBLBANK.BO": {
+      "symbol": "RBLBANK.BO",
+      "company_name": "RBL Bank Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "YESBANK": {
+      "symbol": "YESBANK",
+      "company_name": "YES Bank Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "YESBANK.BO": {
+      "symbol": "YESBANK.BO",
+      "company_name": "YES Bank Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "IDFCFIRSTB": {
+      "symbol": "IDFCFIRSTB",
+      "company_name": "IDFC First Bank Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "IDFCFIRSTB.BO": {
+      "symbol": "IDFCFIRSTB.BO",
+      "company_name": "IDFC First Bank Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "BANDHANBNK": {
+      "symbol": "BANDHANBNK",
+      "company_name": "Bandhan Bank Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "BANDHANBNK.BO": {
+      "symbol": "BANDHANBNK.BO",
+      "company_name": "Bandhan Bank Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "AUBANK": {
+      "symbol": "AUBANK",
+      "company_name": "AU Small Finance Bank Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "AUBANK.BO": {
+      "symbol": "AUBANK.BO",
+      "company_name": "AU Small Finance Bank Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "EQUITASBNK": {
+      "symbol": "EQUITASBNK",
+      "company_name": "Equitas Small Finance Bank Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "EQUITASBNK.BO": {
+      "symbol": "EQUITASBNK.BO",
+      "company_name": "Equitas Small Finance Bank Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "UJJIVANSFB": {
+      "symbol": "UJJIVANSFB",
+      "company_name": "Ujjivan Small Finance Bank Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "UJJIVANSFB.BO": {
+      "symbol": "UJJIVANSFB.BO",
+      "company_name": "Ujjivan Small Finance Bank Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "SURYODAY": {
+      "symbol": "SURYODAY",
+      "company_name": "Suryoday Small Finance Bank Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "SURYODAY.BO": {
+      "symbol": "SURYODAY.BO",
+      "company_name": "Suryoday Small Finance Bank Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "ESAFSFB": {
+      "symbol": "ESAFSFB",
+      "company_name": "ESAF Small Finance Bank Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "ESAFSFB.BO": {
+      "symbol": "ESAFSFB.BO",
+      "company_name": "ESAF Small Finance Bank Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "NEELAMRT": {
+      "symbol": "NEELAMRT",
+      "company_name": "Neelam Merchandise & Trading Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "NEELAMRT.BO": {
+      "symbol": "NEELAMRT.BO",
+      "company_name": "Neelam Merchandise & Trading Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "DCBBANK": {
+      "symbol": "DCBBANK",
+      "company_name": "DCB Bank Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "DCBBANK.BO": {
+      "symbol": "DCBBANK.BO",
+      "company_name": "DCB Bank Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "CITYUNION": {
+      "symbol": "CITYUNION",
+      "company_name": "City Union Bank Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "CITYUNION.BO": {
+      "symbol": "CITYUNION.BO",
+      "company_name": "City Union Bank Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "SOUTHBANK": {
+      "symbol": "SOUTHBANK",
+      "company_name": "The South Indian Bank Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "SOUTHBANK.BO": {
+      "symbol": "SOUTHBANK.BO",
+      "company_name": "The South Indian Bank Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "KARURVY": {
+      "symbol": "KARURVY",
+      "company_name": "Karur Vysya Bank Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "KARURVY.BO": {
+      "symbol": "KARURVY.BO",
+      "company_name": "Karur Vysya Bank Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "TMBK": {
+      "symbol": "TMBK",
+      "company_name": "TMB Bank Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "TMBK.BO": {
+      "symbol": "TMBK.BO",
+      "company_name": "TMB Bank Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "JKBANK": {
+      "symbol": "JKBANK",
+      "company_name": "The Jammu & Kashmir Bank Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "JKBANK.BO": {
+      "symbol": "JKBANK.BO",
+      "company_name": "The Jammu & Kashmir Bank Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "DHANIBANK": {
+      "symbol": "DHANIBANK",
+      "company_name": "Dhani Services Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "DHANIBANK.BO": {
+      "symbol": "DHANIBANK.BO",
+      "company_name": "Dhani Services Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "CSB": {
+      "symbol": "CSB",
+      "company_name": "CSB Bank Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "CSB.BO": {
+      "symbol": "CSB.BO",
+      "company_name": "CSB Bank Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "KAKATIYA": {
+      "symbol": "KAKATIYA",
+      "company_name": "Kakatiya Cement Sugar & Industries Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "KAKATIYA.BO": {
+      "symbol": "KAKATIYA.BO",
+      "company_name": "Kakatiya Cement Sugar & Industries Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "CAPITAL": {
+      "symbol": "CAPITAL",
+      "company_name": "Capital First Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "CAPITAL.BO": {
+      "symbol": "CAPITAL.BO",
+      "company_name": "Capital First Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "RATNAMANI": {
+      "symbol": "RATNAMANI",
+      "company_name": "Ratnamani Metals & Tubes Limited",
+      "exchange": "NSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "RATNAMANI.BO": {
+      "symbol": "RATNAMANI.BO",
+      "company_name": "Ratnamani Metals & Tubes Limited",
+      "exchange": "BSE",
+      "sector": "Banking",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "TCS": {
+      "symbol": "TCS",
+      "company_name": "Tata Consultancy Services Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "TCS.BO": {
+      "symbol": "TCS.BO",
+      "company_name": "Tata Consultancy Services Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "INFY": {
+      "symbol": "INFY",
+      "company_name": "Infosys Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "INFY.BO": {
+      "symbol": "INFY.BO",
+      "company_name": "Infosys Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "WIPRO": {
+      "symbol": "WIPRO",
+      "company_name": "Wipro Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "WIPRO.BO": {
+      "symbol": "WIPRO.BO",
+      "company_name": "Wipro Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "HCLTECH": {
+      "symbol": "HCLTECH",
+      "company_name": "HCL Technologies Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "HCLTECH.BO": {
+      "symbol": "HCLTECH.BO",
+      "company_name": "HCL Technologies Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "TECHM": {
+      "symbol": "TECHM",
+      "company_name": "Tech Mahindra Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "TECHM.BO": {
+      "symbol": "TECHM.BO",
+      "company_name": "Tech Mahindra Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "LTIM": {
+      "symbol": "LTIM",
+      "company_name": "LTIMindtree Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "LTIM.BO": {
+      "symbol": "LTIM.BO",
+      "company_name": "LTIMindtree Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "MPHASIS": {
+      "symbol": "MPHASIS",
+      "company_name": "Mphasis Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "MPHASIS.BO": {
+      "symbol": "MPHASIS.BO",
+      "company_name": "Mphasis Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "PERSISTENT": {
+      "symbol": "PERSISTENT",
+      "company_name": "Persistent Systems Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "PERSISTENT.BO": {
+      "symbol": "PERSISTENT.BO",
+      "company_name": "Persistent Systems Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "MINDTREE": {
+      "symbol": "MINDTREE",
+      "company_name": "Mindtree Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "MINDTREE.BO": {
+      "symbol": "MINDTREE.BO",
+      "company_name": "Mindtree Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "COFORGE": {
+      "symbol": "COFORGE",
+      "company_name": "Coforge Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "COFORGE.BO": {
+      "symbol": "COFORGE.BO",
+      "company_name": "Coforge Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "LTTS": {
+      "symbol": "LTTS",
+      "company_name": "L&T Technology Services Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "LTTS.BO": {
+      "symbol": "LTTS.BO",
+      "company_name": "L&T Technology Services Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "CYIENT": {
+      "symbol": "CYIENT",
+      "company_name": "Cyient Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "CYIENT.BO": {
+      "symbol": "CYIENT.BO",
+      "company_name": "Cyient Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "HEXAWARE": {
+      "symbol": "HEXAWARE",
+      "company_name": "Hexaware Technologies Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "HEXAWARE.BO": {
+      "symbol": "HEXAWARE.BO",
+      "company_name": "Hexaware Technologies Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "ZENSAR": {
+      "symbol": "ZENSAR",
+      "company_name": "Zensar Technologies Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "ZENSAR.BO": {
+      "symbol": "ZENSAR.BO",
+      "company_name": "Zensar Technologies Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "RATETECH": {
+      "symbol": "RATETECH",
+      "company_name": "RATNAMANI METALS & TUBES LIMITED",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "RATETECH.BO": {
+      "symbol": "RATETECH.BO",
+      "company_name": "RATNAMANI METALS & TUBES LIMITED",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "NIITTECH": {
+      "symbol": "NIITTECH",
+      "company_name": "NIIT Technologies Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "NIITTECH.BO": {
+      "symbol": "NIITTECH.BO",
+      "company_name": "NIIT Technologies Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "KPIT": {
+      "symbol": "KPIT",
+      "company_name": "KPIT Technologies Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "KPIT.BO": {
+      "symbol": "KPIT.BO",
+      "company_name": "KPIT Technologies Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "SONATA": {
+      "symbol": "SONATA",
+      "company_name": "Sonata Software Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "SONATA.BO": {
+      "symbol": "SONATA.BO",
+      "company_name": "Sonata Software Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "MASTEK": {
+      "symbol": "MASTEK",
+      "company_name": "Mastek Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "MASTEK.BO": {
+      "symbol": "MASTEK.BO",
+      "company_name": "Mastek Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "RITES": {
+      "symbol": "RITES",
+      "company_name": "RITES Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "RITES.BO": {
+      "symbol": "RITES.BO",
+      "company_name": "RITES Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "ECLERX": {
+      "symbol": "ECLERX",
+      "company_name": "eClerx Services Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "ECLERX.BO": {
+      "symbol": "ECLERX.BO",
+      "company_name": "eClerx Services Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "NEWGEN": {
+      "symbol": "NEWGEN",
+      "company_name": "Newgen Software Technologies Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "NEWGEN.BO": {
+      "symbol": "NEWGEN.BO",
+      "company_name": "Newgen Software Technologies Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "INTELLECT": {
+      "symbol": "INTELLECT",
+      "company_name": "Intellect Design Arena Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "INTELLECT.BO": {
+      "symbol": "INTELLECT.BO",
+      "company_name": "Intellect Design Arena Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "RAMCOCEM": {
+      "symbol": "RAMCOCEM",
+      "company_name": "The Ramco Cements Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "RAMCOCEM.BO": {
+      "symbol": "RAMCOCEM.BO",
+      "company_name": "The Ramco Cements Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "POLYCAB": {
+      "symbol": "POLYCAB",
+      "company_name": "Polycab India Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "POLYCAB.BO": {
+      "symbol": "POLYCAB.BO",
+      "company_name": "Polycab India Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "DATAMATICS": {
+      "symbol": "DATAMATICS",
+      "company_name": "Datamatics Global Services Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "DATAMATICS.BO": {
+      "symbol": "DATAMATICS.BO",
+      "company_name": "Datamatics Global Services Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "NELCO": {
+      "symbol": "NELCO",
+      "company_name": "Nelco Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "NELCO.BO": {
+      "symbol": "NELCO.BO",
+      "company_name": "Nelco Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "SAKSOFT": {
+      "symbol": "SAKSOFT",
+      "company_name": "Saksoft Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "SAKSOFT.BO": {
+      "symbol": "SAKSOFT.BO",
+      "company_name": "Saksoft Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "TATAELXSI": {
+      "symbol": "TATAELXSI",
+      "company_name": "Tata Elxsi Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "TATAELXSI.BO": {
+      "symbol": "TATAELXSI.BO",
+      "company_name": "Tata Elxsi Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "MINDACORP": {
+      "symbol": "MINDACORP",
+      "company_name": "Minda Corporation Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "MINDACORP.BO": {
+      "symbol": "MINDACORP.BO",
+      "company_name": "Minda Corporation Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "SUBEX": {
+      "symbol": "SUBEX",
+      "company_name": "Subex Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "SUBEX.BO": {
+      "symbol": "SUBEX.BO",
+      "company_name": "Subex Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "VAKRANGEE": {
+      "symbol": "VAKRANGEE",
+      "company_name": "Vakrangee Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "VAKRANGEE.BO": {
+      "symbol": "VAKRANGEE.BO",
+      "company_name": "Vakrangee Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "CMSINFO": {
+      "symbol": "CMSINFO",
+      "company_name": "CMS Info Systems Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "CMSINFO.BO": {
+      "symbol": "CMSINFO.BO",
+      "company_name": "CMS Info Systems Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "NETWEB": {
+      "symbol": "NETWEB",
+      "company_name": "Netweb Technologies India Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "NETWEB.BO": {
+      "symbol": "NETWEB.BO",
+      "company_name": "Netweb Technologies India Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "RSYSTEMS": {
+      "symbol": "RSYSTEMS",
+      "company_name": "R Systems International Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "RSYSTEMS.BO": {
+      "symbol": "RSYSTEMS.BO",
+      "company_name": "R Systems International Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "TANLA": {
+      "symbol": "TANLA",
+      "company_name": "Tanla Platforms Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "TANLA.BO": {
+      "symbol": "TANLA.BO",
+      "company_name": "Tanla Platforms Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "ROUTE": {
+      "symbol": "ROUTE",
+      "company_name": "Route Mobile Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "ROUTE.BO": {
+      "symbol": "ROUTE.BO",
+      "company_name": "Route Mobile Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "REDINGTON": {
+      "symbol": "REDINGTON",
+      "company_name": "Redington India Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "REDINGTON.BO": {
+      "symbol": "REDINGTON.BO",
+      "company_name": "Redington India Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "RASHI": {
+      "symbol": "RASHI",
+      "company_name": "Rashi Peripherals Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "RASHI.BO": {
+      "symbol": "RASHI.BO",
+      "company_name": "Rashi Peripherals Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "POLYSPIN": {
+      "symbol": "POLYSPIN",
+      "company_name": "Polyspin Exports Limited",
+      "exchange": "NSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "POLYSPIN.BO": {
+      "symbol": "POLYSPIN.BO",
+      "company_name": "Polyspin Exports Limited",
+      "exchange": "BSE",
+      "sector": "IT",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "SUNPHARMA": {
+      "symbol": "SUNPHARMA",
+      "company_name": "Sun Pharmaceutical Industries Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "SUNPHARMA.BO": {
+      "symbol": "SUNPHARMA.BO",
+      "company_name": "Sun Pharmaceutical Industries Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "DRREDDY": {
+      "symbol": "DRREDDY",
+      "company_name": "Dr. Reddy's Laboratories Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "DRREDDY.BO": {
+      "symbol": "DRREDDY.BO",
+      "company_name": "Dr. Reddy's Laboratories Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "CIPLA": {
+      "symbol": "CIPLA",
+      "company_name": "Cipla Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "CIPLA.BO": {
+      "symbol": "CIPLA.BO",
+      "company_name": "Cipla Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "DIVISLAB": {
+      "symbol": "DIVISLAB",
+      "company_name": "Divi's Laboratories Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "DIVISLAB.BO": {
+      "symbol": "DIVISLAB.BO",
+      "company_name": "Divi's Laboratories Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "BIOCON": {
+      "symbol": "BIOCON",
+      "company_name": "Biocon Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "BIOCON.BO": {
+      "symbol": "BIOCON.BO",
+      "company_name": "Biocon Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "LUPIN": {
+      "symbol": "LUPIN",
+      "company_name": "Lupin Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "LUPIN.BO": {
+      "symbol": "LUPIN.BO",
+      "company_name": "Lupin Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "TORNTPHARM": {
+      "symbol": "TORNTPHARM",
+      "company_name": "Torrent Pharmaceuticals Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "TORNTPHARM.BO": {
+      "symbol": "TORNTPHARM.BO",
+      "company_name": "Torrent Pharmaceuticals Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "GLENMARK": {
+      "symbol": "GLENMARK",
+      "company_name": "Glenmark Pharmaceuticals Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "GLENMARK.BO": {
+      "symbol": "GLENMARK.BO",
+      "company_name": "Glenmark Pharmaceuticals Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "CADILAHC": {
+      "symbol": "CADILAHC",
+      "company_name": "Cadila Healthcare Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "CADILAHC.BO": {
+      "symbol": "CADILAHC.BO",
+      "company_name": "Cadila Healthcare Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "AUROPHARMA": {
+      "symbol": "AUROPHARMA",
+      "company_name": "Aurobindo Pharma Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "AUROPHARMA.BO": {
+      "symbol": "AUROPHARMA.BO",
+      "company_name": "Aurobindo Pharma Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "ALKEM": {
+      "symbol": "ALKEM",
+      "company_name": "Alkem Laboratories Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "ALKEM.BO": {
+      "symbol": "ALKEM.BO",
+      "company_name": "Alkem Laboratories Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "APOLLOHOSP": {
+      "symbol": "APOLLOHOSP",
+      "company_name": "Apollo Hospitals Enterprise Limited",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "APOLLOHOSP.BO": {
+      "symbol": "APOLLOHOSP.BO",
+      "company_name": "Apollo Hospitals Enterprise Limited",
+      "exchange": "BSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "FORTIS": {
+      "symbol": "FORTIS",
+      "company_name": "Fortis Healthcare Limited",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "FORTIS.BO": {
+      "symbol": "FORTIS.BO",
+      "company_name": "Fortis Healthcare Limited",
+      "exchange": "BSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "MAXHEALTH": {
+      "symbol": "MAXHEALTH",
+      "company_name": "Max Healthcare Institute Limited",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "MAXHEALTH.BO": {
+      "symbol": "MAXHEALTH.BO",
+      "company_name": "Max Healthcare Institute Limited",
+      "exchange": "BSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "METROPOLIS": {
+      "symbol": "METROPOLIS",
+      "company_name": "Metropolis Healthcare Limited",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "METROPOLIS.BO": {
+      "symbol": "METROPOLIS.BO",
+      "company_name": "Metropolis Healthcare Limited",
+      "exchange": "BSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "LALPATHLAB": {
+      "symbol": "LALPATHLAB",
+      "company_name": "Dr. Lal Path Labs Limited",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "LALPATHLAB.BO": {
+      "symbol": "LALPATHLAB.BO",
+      "company_name": "Dr. Lal Path Labs Limited",
+      "exchange": "BSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "THYROCARE": {
+      "symbol": "THYROCARE",
+      "company_name": "Thyrocare Technologies Limited",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "THYROCARE.BO": {
+      "symbol": "THYROCARE.BO",
+      "company_name": "Thyrocare Technologies Limited",
+      "exchange": "BSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "STARHEALTH": {
+      "symbol": "STARHEALTH",
+      "company_name": "Star Health and Allied Insurance Company Limited",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "STARHEALTH.BO": {
+      "symbol": "STARHEALTH.BO",
+      "company_name": "Star Health and Allied Insurance Company Limited",
+      "exchange": "BSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "ASTER": {
+      "symbol": "ASTER",
+      "company_name": "Aster DM Healthcare Limited",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "ASTER.BO": {
+      "symbol": "ASTER.BO",
+      "company_name": "Aster DM Healthcare Limited",
+      "exchange": "BSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "CARERATING": {
+      "symbol": "CARERATING",
+      "company_name": "Care Ratings Limited",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "CARERATING.BO": {
+      "symbol": "CARERATING.BO",
+      "company_name": "Care Ratings Limited",
+      "exchange": "BSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "RAINBOW": {
+      "symbol": "RAINBOW",
+      "company_name": "Rainbow Children's Medicare Limited",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "RAINBOW.BO": {
+      "symbol": "RAINBOW.BO",
+      "company_name": "Rainbow Children's Medicare Limited",
+      "exchange": "BSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "KRSNAA": {
+      "symbol": "KRSNAA",
+      "company_name": "Krsnaa Diagnostics Limited",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "KRSNAA.BO": {
+      "symbol": "KRSNAA.BO",
+      "company_name": "Krsnaa Diagnostics Limited",
+      "exchange": "BSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "MEDPLUS": {
+      "symbol": "MEDPLUS",
+      "company_name": "MedPlus Health Services Limited",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "MEDPLUS.BO": {
+      "symbol": "MEDPLUS.BO",
+      "company_name": "MedPlus Health Services Limited",
+      "exchange": "BSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "HEALTHSERV": {
+      "symbol": "HEALTHSERV",
+      "company_name": "Healthcare Services Limited",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "HEALTHSERV.BO": {
+      "symbol": "HEALTHSERV.BO",
+      "company_name": "Healthcare Services Limited",
+      "exchange": "BSE",
+      "sector": "Healthcare",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "STRIDES": {
+      "symbol": "STRIDES",
+      "company_name": "Strides Pharma Science Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "STRIDES.BO": {
+      "symbol": "STRIDES.BO",
+      "company_name": "Strides Pharma Science Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "GRANULES": {
+      "symbol": "GRANULES",
+      "company_name": "Granules India Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "GRANULES.BO": {
+      "symbol": "GRANULES.BO",
+      "company_name": "Granules India Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "NATCOPHAR": {
+      "symbol": "NATCOPHAR",
+      "company_name": "Natco Pharma Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "NATCOPHAR.BO": {
+      "symbol": "NATCOPHAR.BO",
+      "company_name": "Natco Pharma Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "IPCALAB": {
+      "symbol": "IPCALAB",
+      "company_name": "IPCA Laboratories Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "IPCALAB.BO": {
+      "symbol": "IPCALAB.BO",
+      "company_name": "IPCA Laboratories Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "JBCHEPHARM": {
+      "symbol": "JBCHEPHARM",
+      "company_name": "JB Chemicals & Pharmaceuticals Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "JBCHEPHARM.BO": {
+      "symbol": "JBCHEPHARM.BO",
+      "company_name": "JB Chemicals & Pharmaceuticals Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "AJANTPHARM": {
+      "symbol": "AJANTPHARM",
+      "company_name": "Ajanta Pharma Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "AJANTPHARM.BO": {
+      "symbol": "AJANTPHARM.BO",
+      "company_name": "Ajanta Pharma Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "GLAND": {
+      "symbol": "GLAND",
+      "company_name": "Gland Pharma Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "GLAND.BO": {
+      "symbol": "GLAND.BO",
+      "company_name": "Gland Pharma Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "SUVEN": {
+      "symbol": "SUVEN",
+      "company_name": "Suven Life Sciences Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "SUVEN.BO": {
+      "symbol": "SUVEN.BO",
+      "company_name": "Suven Life Sciences Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "DIVIS": {
+      "symbol": "DIVIS",
+      "company_name": "Divis Laboratories Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "DIVIS.BO": {
+      "symbol": "DIVIS.BO",
+      "company_name": "Divis Laboratories Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "SEQUENT": {
+      "symbol": "SEQUENT",
+      "company_name": "Sequent Scientific Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "SEQUENT.BO": {
+      "symbol": "SEQUENT.BO",
+      "company_name": "Sequent Scientific Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "CAPLIN": {
+      "symbol": "CAPLIN",
+      "company_name": "Caplin Point Laboratories Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "CAPLIN.BO": {
+      "symbol": "CAPLIN.BO",
+      "company_name": "Caplin Point Laboratories Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "SOLARA": {
+      "symbol": "SOLARA",
+      "company_name": "Solara Active Pharma Sciences Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "SOLARA.BO": {
+      "symbol": "SOLARA.BO",
+      "company_name": "Solara Active Pharma Sciences Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "HIKAL": {
+      "symbol": "HIKAL",
+      "company_name": "Hikal Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "HIKAL.BO": {
+      "symbol": "HIKAL.BO",
+      "company_name": "Hikal Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "AAVAS": {
+      "symbol": "AAVAS",
+      "company_name": "Aavas Financiers Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "AAVAS.BO": {
+      "symbol": "AAVAS.BO",
+      "company_name": "Aavas Financiers Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "FINEORG": {
+      "symbol": "FINEORG",
+      "company_name": "Fine Organic Industries Limited",
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "FINEORG.BO": {
+      "symbol": "FINEORG.BO",
+      "company_name": "Fine Organic Industries Limited",
+      "exchange": "BSE",
+      "sector": "Pharma",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "HINDUNILVR": {
+      "symbol": "HINDUNILVR",
+      "company_name": "Hindustan Unilever Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "HINDUNILVR.BO": {
+      "symbol": "HINDUNILVR.BO",
+      "company_name": "Hindustan Unilever Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "ITC": {
+      "symbol": "ITC",
+      "company_name": "ITC Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "ITC.BO": {
+      "symbol": "ITC.BO",
+      "company_name": "ITC Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "NESTLEIND": {
+      "symbol": "NESTLEIND",
+      "company_name": "Nestle India Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "NESTLEIND.BO": {
+      "symbol": "NESTLEIND.BO",
+      "company_name": "Nestle India Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "BRITANNIA": {
+      "symbol": "BRITANNIA",
+      "company_name": "Britannia Industries Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "BRITANNIA.BO": {
+      "symbol": "BRITANNIA.BO",
+      "company_name": "Britannia Industries Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "DABUR": {
+      "symbol": "DABUR",
+      "company_name": "Dabur India Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "DABUR.BO": {
+      "symbol": "DABUR.BO",
+      "company_name": "Dabur India Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "GODREJCP": {
+      "symbol": "GODREJCP",
+      "company_name": "Godrej Consumer Products Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "GODREJCP.BO": {
+      "symbol": "GODREJCP.BO",
+      "company_name": "Godrej Consumer Products Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "MARICO": {
+      "symbol": "MARICO",
+      "company_name": "Marico Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "MARICO.BO": {
+      "symbol": "MARICO.BO",
+      "company_name": "Marico Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "COLPAL": {
+      "symbol": "COLPAL",
+      "company_name": "Colgate Palmolive (India) Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "COLPAL.BO": {
+      "symbol": "COLPAL.BO",
+      "company_name": "Colgate Palmolive (India) Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "EMAMILTD": {
+      "symbol": "EMAMILTD",
+      "company_name": "Emami Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "EMAMILTD.BO": {
+      "symbol": "EMAMILTD.BO",
+      "company_name": "Emami Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "BAJAJCON": {
+      "symbol": "BAJAJCON",
+      "company_name": "Bajaj Consumer Care Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "BAJAJCON.BO": {
+      "symbol": "BAJAJCON.BO",
+      "company_name": "Bajaj Consumer Care Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "VBL": {
+      "symbol": "VBL",
+      "company_name": "Varun Beverages Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "VBL.BO": {
+      "symbol": "VBL.BO",
+      "company_name": "Varun Beverages Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "TATACONSUM": {
+      "symbol": "TATACONSUM",
+      "company_name": "Tata Consumer Products Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "TATACONSUM.BO": {
+      "symbol": "TATACONSUM.BO",
+      "company_name": "Tata Consumer Products Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "UBL": {
+      "symbol": "UBL",
+      "company_name": "United Breweries Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "UBL.BO": {
+      "symbol": "UBL.BO",
+      "company_name": "United Breweries Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "GILLETTE": {
+      "symbol": "GILLETTE",
+      "company_name": "Gillette India Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "GILLETTE.BO": {
+      "symbol": "GILLETTE.BO",
+      "company_name": "Gillette India Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "PGHH": {
+      "symbol": "PGHH",
+      "company_name": "Procter & Gamble Hygiene and Health Care Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "PGHH.BO": {
+      "symbol": "PGHH.BO",
+      "company_name": "Procter & Gamble Hygiene and Health Care Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "RADICO": {
+      "symbol": "RADICO",
+      "company_name": "Radico Khaitan Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "RADICO.BO": {
+      "symbol": "RADICO.BO",
+      "company_name": "Radico Khaitan Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "JYOTHYLAB": {
+      "symbol": "JYOTHYLAB",
+      "company_name": "Jyothy Labs Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "JYOTHYLAB.BO": {
+      "symbol": "JYOTHYLAB.BO",
+      "company_name": "Jyothy Labs Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "VGUARD": {
+      "symbol": "VGUARD",
+      "company_name": "V-Guard Industries Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "VGUARD.BO": {
+      "symbol": "VGUARD.BO",
+      "company_name": "V-Guard Industries Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "HAWKINS": {
+      "symbol": "HAWKINS",
+      "company_name": "Hawkins Cookers Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "HAWKINS.BO": {
+      "symbol": "HAWKINS.BO",
+      "company_name": "Hawkins Cookers Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "SYMPHONY": {
+      "symbol": "SYMPHONY",
+      "company_name": "Symphony Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "SYMPHONY.BO": {
+      "symbol": "SYMPHONY.BO",
+      "company_name": "Symphony Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "WHIRLPOOL": {
+      "symbol": "WHIRLPOOL",
+      "company_name": "Whirlpool of India Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "WHIRLPOOL.BO": {
+      "symbol": "WHIRLPOOL.BO",
+      "company_name": "Whirlpool of India Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "VOLTAS": {
+      "symbol": "VOLTAS",
+      "company_name": "Voltas Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "VOLTAS.BO": {
+      "symbol": "VOLTAS.BO",
+      "company_name": "Voltas Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "BLUESTAR": {
+      "symbol": "BLUESTAR",
+      "company_name": "Blue Star Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "BLUESTAR.BO": {
+      "symbol": "BLUESTAR.BO",
+      "company_name": "Blue Star Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "CROMPTON": {
+      "symbol": "CROMPTON",
+      "company_name": "Crompton Greaves Consumer Electricals Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "CROMPTON.BO": {
+      "symbol": "CROMPTON.BO",
+      "company_name": "Crompton Greaves Consumer Electricals Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "ORIENT": {
+      "symbol": "ORIENT",
+      "company_name": "Orient Electric Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "ORIENT.BO": {
+      "symbol": "ORIENT.BO",
+      "company_name": "Orient Electric Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "AMBER": {
+      "symbol": "AMBER",
+      "company_name": "Amber Enterprises India Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "AMBER.BO": {
+      "symbol": "AMBER.BO",
+      "company_name": "Amber Enterprises India Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "DIXON": {
+      "symbol": "DIXON",
+      "company_name": "Dixon Technologies (India) Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "DIXON.BO": {
+      "symbol": "DIXON.BO",
+      "company_name": "Dixon Technologies (India) Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "WONDERLA": {
+      "symbol": "WONDERLA",
+      "company_name": "Wonderla Holidays Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "WONDERLA.BO": {
+      "symbol": "WONDERLA.BO",
+      "company_name": "Wonderla Holidays Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "RELAXO": {
+      "symbol": "RELAXO",
+      "company_name": "Relaxo Footwears Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "RELAXO.BO": {
+      "symbol": "RELAXO.BO",
+      "company_name": "Relaxo Footwears Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "BATA": {
+      "symbol": "BATA",
+      "company_name": "Bata India Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "BATA.BO": {
+      "symbol": "BATA.BO",
+      "company_name": "Bata India Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "VSTIND": {
+      "symbol": "VSTIND",
+      "company_name": "VST Industries Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "VSTIND.BO": {
+      "symbol": "VSTIND.BO",
+      "company_name": "VST Industries Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "GODFRYPHLP": {
+      "symbol": "GODFRYPHLP",
+      "company_name": "Godfrey Phillips India Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "GODFRYPHLP.BO": {
+      "symbol": "GODFRYPHLP.BO",
+      "company_name": "Godfrey Phillips India Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "JPPOWER": {
+      "symbol": "JPPOWER",
+      "company_name": "Jaiprakash Power Ventures Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "JPPOWER.BO": {
+      "symbol": "JPPOWER.BO",
+      "company_name": "Jaiprakash Power Ventures Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "VENKEYS": {
+      "symbol": "VENKEYS",
+      "company_name": "Venky's (India) Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "VENKEYS.BO": {
+      "symbol": "VENKEYS.BO",
+      "company_name": "Venky's (India) Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "AVANTI": {
+      "symbol": "AVANTI",
+      "company_name": "Avanti Feeds Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "AVANTI.BO": {
+      "symbol": "AVANTI.BO",
+      "company_name": "Avanti Feeds Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "HERITGFOOD": {
+      "symbol": "HERITGFOOD",
+      "company_name": "Heritage Foods Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "HERITGFOOD.BO": {
+      "symbol": "HERITGFOOD.BO",
+      "company_name": "Heritage Foods Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "KWALITY": {
+      "symbol": "KWALITY",
+      "company_name": "Kwality Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "KWALITY.BO": {
+      "symbol": "KWALITY.BO",
+      "company_name": "Kwality Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "DYNAMATECH": {
+      "symbol": "DYNAMATECH",
+      "company_name": "Dynamatic Technologies Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "DYNAMATECH.BO": {
+      "symbol": "DYNAMATECH.BO",
+      "company_name": "Dynamatic Technologies Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "MANAPPURAM": {
+      "symbol": "MANAPPURAM",
+      "company_name": "Manappuram Finance Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "MANAPPURAM.BO": {
+      "symbol": "MANAPPURAM.BO",
+      "company_name": "Manappuram Finance Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "MUTHOOTFIN": {
+      "symbol": "MUTHOOTFIN",
+      "company_name": "Muthoot Finance Limited",
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    },
+    "MUTHOOTFIN.BO": {
+      "symbol": "MUTHOOTFIN.BO",
+      "company_name": "Muthoot Finance Limited",
+      "exchange": "BSE",
+      "sector": "FMCG",
+      "industry": null,
+      "market_cap": null,
+      "isin": null,
+      "series": null
+    }
+  }
+}
