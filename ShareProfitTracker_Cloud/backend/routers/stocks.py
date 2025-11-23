@@ -4,8 +4,11 @@ Stocks router - CRUD operations for stocks
 
 from fastapi import APIRouter, HTTPException, status, Header
 from typing import List
-from ..models import StockCreate, StockUpdate, StockResponse
-from ..database import get_supabase_client
+import sys
+import os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from models import StockCreate, StockUpdate, StockResponse
+from database import get_supabase_client
 
 router = APIRouter()
 

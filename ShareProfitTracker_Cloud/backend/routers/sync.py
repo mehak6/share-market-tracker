@@ -4,8 +4,11 @@ Sync router - handles data synchronization between desktop and cloud
 
 from fastapi import APIRouter, HTTPException, Header
 from datetime import datetime
-from ..models import SyncData, SyncResponse
-from ..database import get_supabase_client
+import sys
+import os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from models import SyncData, SyncResponse
+from database import get_supabase_client
 
 router = APIRouter()
 

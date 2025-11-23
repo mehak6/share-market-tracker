@@ -3,8 +3,11 @@ Authentication router - handles user registration and login
 """
 
 from fastapi import APIRouter, HTTPException, status
-from ..models import UserCreate, UserLogin, Token, UserResponse
-from ..database import get_supabase_client
+import sys
+import os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from models import UserCreate, UserLogin, Token, UserResponse
+from database import get_supabase_client
 
 router = APIRouter()
 
