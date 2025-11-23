@@ -14,7 +14,7 @@ class CloudSyncService:
 
     def __init__(self, api_url: str = None):
         # Load API URL from environment or use default
-        self.api_url = api_url or os.getenv("CLOUD_API_URL", "https://your-app.railway.app")
+        self.api_url = api_url or os.getenv("CLOUD_API_URL", "https://share-market-tracker-production.up.railway.app")
         self.token: Optional[str] = None
         self.user_id: Optional[str] = None
         self.display_name: Optional[str] = None
