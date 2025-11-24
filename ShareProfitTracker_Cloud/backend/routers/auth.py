@@ -43,6 +43,13 @@ async def register(user: UserCreate):
         except Exception:
             pass  # Profile creation is optional
 
+        # Check if session exists (may be None if email confirmation required)
+        if response.session is None:
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="Registration successful! Please check your email to confirm your account."
+            )
+
         return Token(
             access_token=response.session.access_token,
             user_id=response.user.id,
