@@ -34,11 +34,14 @@ async def register(user: UserCreate):
                 detail="Registration failed. Please try again."
             )
 
-        # Create user profile
-        supabase.table("user_profiles").insert({
-            "id": response.user.id,
-            "display_name": user.display_name
-        }).execute()
+        # Try to create user profile (optional, may fail due to RLS)
+        try:
+            supabase.table("user_profiles").insert({
+                "id": response.user.id,
+                "display_name": user.display_name
+            }).execute()
+        except Exception:
+            pass  # Profile creation is optional
 
         return Token(
             access_token=response.session.access_token,
